@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-fulton",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Fulton County Open Data (sharefulton.fultoncountyga.gov) Socrata MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-fulton",
     "gatewaySlug": "data-fulton",
-    "sourceHash": "v1-63326b712fb903cfe5ee7e02524321f9bb9627897d404ba0856d631b5f1a1644",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-402a6707cd0a7651893bb8f279e4a09589c6d5883212087202d3db711d679a5d",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
